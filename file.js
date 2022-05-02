@@ -1,2 +1,2 @@
-var b = [1, 3, 9, 18];
+var b = [4, 3, 9, 18];
 console.log(b);
